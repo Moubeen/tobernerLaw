@@ -13,7 +13,7 @@
 
     <title>COMMON</title>
 </head>
-<body>
+<body class="">
     <?php include './inc/header.php';?>
 
     <div class="__california_rent_control __bg_color_dark_blue" id="pageWrapper"> <!-- __SECTION_CALIFORNIA START -->
